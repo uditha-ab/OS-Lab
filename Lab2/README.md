@@ -8,10 +8,10 @@ To compile the c source file and run the program use following commands in comma
   
 When "$" sign shows up you can enter the commands.
 Following commands are supported,
-pwd
-ls
-sleep
-cat
+pwd,
+ls,
+sleep,
+cat,
 ps
 
 Only Part A of the lab is implemented so ctrl+C will close the terminal
