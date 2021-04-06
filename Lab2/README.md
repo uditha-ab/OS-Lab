@@ -1,9 +1,7 @@
 Compiling & Running
-^^^^^^^^^^^^^^^^^^^^
 
 To compile the c source file and run the program use following commands in commandline.
 
-.. code:: shell
 
     gcc my_shell.c -o my_shell
     ./my_shell
@@ -21,6 +19,5 @@ Hope to implement that soon.
 
 Can write the commands to a .txt file and run them all as a batch using following command
 
-.. code:: shell
   
   ./my_shell command.txt
