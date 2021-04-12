@@ -103,6 +103,7 @@ int main(int argc, char* argv[]) {
         }
         if(flag==1){
             printf("found token %s \n", tokens[n+1]);
+///KHANSA CODE HERE
         }
         else if(flag==2){
                 int j,k;
